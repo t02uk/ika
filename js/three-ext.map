@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "three-ext.js",
+  "sourceRoot": "..",
+  "sources": [
+    "js/three-ext.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,CAAA,CAAkC,EAA7B,EAAQ,EAAU;CACrB,OAAA;CAAA,EAAI,CAAJ;CACG,EAAF,CAAG,GAAD,IAAF;CAFH,EAAkC;CAAlC"
+}
